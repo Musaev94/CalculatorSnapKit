@@ -1,0 +1,6 @@
+framework module Pods_CalculatorSnapKit {
+  umbrella header "Pods-CalculatorSnapKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
